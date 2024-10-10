@@ -1,4 +1,4 @@
-24681589069443596
+24683317599652236
 Audio_Module
 IC_HT7333
 
@@ -101093,6 +101093,13 @@ PJ-342B-TX-SMT
 0
 6
 6
+myCustomLibs
+MOLEX_2171790001
+
+
+0
+16
+16
 myCustomLibs
 PS4_joystick
 
