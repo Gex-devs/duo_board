@@ -481,9 +481,9 @@
       "plot": "./production/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "duo_board.step",
       "svg": "",
-      "vrml": ""
+      "vrml": "duo_board.wrl"
     },
     "page_layout_descr_file": ""
   },
