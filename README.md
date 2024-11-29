@@ -1,8 +1,6 @@
 ﻿# duo_board
 
 ## Custom Split keyboard with PS4 joystic as a mousepad.
-* No Firmware Yet
-* Untested 
 * Left Side Only So far
 * Firmware:= QMK
 
